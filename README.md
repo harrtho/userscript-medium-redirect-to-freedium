@@ -1,6 +1,6 @@
-# Userscript: Medium Redirect to Scribe
+# Userscript: Medium Redirect to Freedium
 
-Redirect Medium Article to scribe.rip alternative frontend
+Redirect Medium Article to freedium-mirror.cfd alternative frontend
 
 # License
 

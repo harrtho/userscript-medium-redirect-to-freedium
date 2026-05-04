@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Medium Redirect to Scribe
+// @name         Medium Redirect to Freedium
 // @namespace    http://tampermonkey.net/
 // @version      0.1.1
-// @description  Redirect Medium Article to scribe.rip alternative frontend
+// @description  Redirect Medium Article to freedium-mirror.cfd alternative frontend
 // @author       Thomas Harr
 // @license      MIT
 // @match        https://*.devgenius.io/*
@@ -31,7 +31,7 @@
     // Source: https://github.com/lorey/social-media-profiles-regexs#medium
     var reArticle = new RegExp('\/(?:(?:(?:@(?<username>[A-z0-9]+))|(?<publication>[a-z-]+))\/)?(?<slug>[a-z0-9\-]+)-(?<post_id>[A-z0-9]+)(?:\\?.*)?')
     if (location.pathname.match(reArticle)) {
-        var redirectUrl = location.href.replace(location.host, 'scribe.rip');
+        var redirectUrl = location.href.replace(location.host, 'freedium-mirror.cfd');
         return location.replace(redirectUrl);
     }
 })();
