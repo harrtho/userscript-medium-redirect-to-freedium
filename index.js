@@ -15,6 +15,7 @@
 // @match        https://blog.bitsrc.io/*
 // @match        https://blog.shiftleft.io/*
 // @match        https://bootcamp.uxdesign.cc/*
+// @match        https://fadamakis.com/*
 // @match        https://faun.pub/*
 // @match        https://generativeai.pub/*
 // @match        https://infosecwriteups.com/*
