@@ -21,6 +21,7 @@
 // @match        https://itnext.io/*
 // @match        https://levelup.gitconnected.com/*
 // @match        https://towardsdatascience.com/*
+// @match        https://uxplanet.org/*
 // @run-at       document-start
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
