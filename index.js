@@ -13,6 +13,7 @@
 // @match        https://betterprogramming.pub/*
 // @match        https://blog.acethecloud.com/*
 // @match        https://blog.bitsrc.io/*
+// @match        https://blog.scriptmint.com/*
 // @match        https://blog.shiftleft.io/*
 // @match        https://bootcamp.uxdesign.cc/*
 // @match        https://experiencestack.co/*
