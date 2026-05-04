@@ -20,6 +20,7 @@
 // @match        https://infosecwriteups.com/*
 // @match        https://itnext.io/*
 // @match        https://levelup.gitconnected.com/*
+// @match        https://systemweakness.com/*
 // @match        https://thegrayarea.tech/*
 // @match        https://towardsdatascience.com/*
 // @match        https://uxplanet.org/*
